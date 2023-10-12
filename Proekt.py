@@ -18,4 +18,4 @@ else:
         otv = 'x1 = %6.2f, x2= %6.2f' % (x1, x2)
 
 print(otv)
-1
+
